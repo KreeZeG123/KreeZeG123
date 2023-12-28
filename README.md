@@ -11,8 +11,8 @@ I'm currently studying computer science in France. I love the world of computers
 * ✉️  You can contact me at [yamis.manfaloti@hotmail.fr](mailto:yamis.manfaloti@hotmail.fr)
 * 🚀  I'm currently working on [My Portfolio](https://github.com/KreeZeG123/portfolio)
 * 🧠  I'm learning Java, JS, HTML, CSS, Angular, TS
-* 🤝  I'm open to collaborating on I'm open to collaboration on any project that can teach me something new !
-* ⚡  I love Asian culture
+* 🤝  I'm open to collaboration on any project that can teach me something new !
+* ⚡  I love Asian Pop Culture
 
 ### Skills
 
