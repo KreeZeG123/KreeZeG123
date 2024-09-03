@@ -6,13 +6,13 @@ Software Engineering Students
 
 I'm currently studying computer science in France. I love the world of computers sciences and foreign culture in general, and I'm curious to learn new things every day.
 
-*   🌍  I'm based in Le Mans, France
+*   🌍  I grew up in Le Mans and now live in Angers, France.
 *   🖥️  See my portfolio at [My Portfolio](http://kreezeg123.github.io/portfolio/)
 *   ✉️  You can contact me at [yamis.manfaloti@hotmail.fr](mailto:yamis.manfaloti@hotmail.fr)
-*   🚀  I'm currently working on [Slitherlink](http://github.com/yusuf72100/groupe6)
-*   🧠  I'm learning Java, Angular, Haskell
+*   🚀  My most recent project is [Slitherlink](http://github.com/yusuf72100/groupe6)
+*   🧠  I'm learning Kotlin, Java, Angular, Haskell, etc
 *   🤝  I'm open to collaborating on any project that can teach me something new !
-*   ⚡  I love Asian Pop Culture
+*   ⚡  I love Asian Pop Culture and new technologies
 
 ### Skills 
 <p align="left">
