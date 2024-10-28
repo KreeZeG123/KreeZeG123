@@ -8,8 +8,8 @@ I'm currently studying computer science in France. I love the world of computers
 
 *   🌍  I grew up in Le Mans and now live in Angers, France.
 *   🖥️  See my portfolio at [My Portfolio](http://kreezeg123.github.io/portfolio/)
-*   ✉️  You can contact me at [yamis.manfaloti@hotmail.fr](mailto:yamis.manfaloti@hotmail.fr)
-*   🚀  My most recent project is [Slitherlink](http://github.com/yusuf72100/groupe6)
+*   ✉️  You can contact me at [manfaloti.yamis@gmail.com](mailto:manfaloti.yamis@gmail.com)
+*   🚀  My most recent project is [Slitherlink](https://github.com/KreeZeG123/SlitherLinkGr6)
 *   🧠  I'm learning Kotlin, Java, Angular, Haskell, etc
 *   🤝  I'm open to collaborating on any project that can teach me something new !
 *   ⚡  I love Asian Pop Culture and new technologies
