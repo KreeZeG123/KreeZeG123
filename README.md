@@ -4,7 +4,8 @@ Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Étudiant en master informatique
 -----------------------------
 
-J'étudie actuellement l'informatique en France. J'aime le monde de l'informatique et la culture populaire en général, et je suis curieux d'apprendre de nouvelles choses chaque jour.
+J'étudie actuellement l'informatique en France.
+J'aime le monde de l'informatique et la culture populaire en général, et je suis curieux d'apprendre de nouvelles choses chaque jour.
 
 *   🌍  J'ai grandi au Mans et je vis maintenant à Angers, France.
 *   🖥️  Consultez mon portfolio à [Mon portfolio](http://kreezeg123.github.io/portfolio/)
