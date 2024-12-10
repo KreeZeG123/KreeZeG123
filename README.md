@@ -14,7 +14,7 @@ J'aime le monde de l'informatique et la culture populaire en général, et je su
 *   🧠  J'apprends Kotlin, React, PHP, Docker, etc
 *   🤝  Je suis ouvert à la collaboration sur tout projet qui peut m'apprendre quelque chose de nouveau !
 *   ⚡  J'aime la culture pop asiatique et les nouvelles technologies.
-*   🌱  Projet à venir : Réaliser l'application [TerraQuest](https://kreezeg123.github.io/portfolio/terraQuest-conception-details.html) conçue en M1 en utilisant React, PHP (Symfony ou Laravel), SQL (MySQL ou PostgreSQL), Docker
+*   🌱  Projet à venir : Réaliser l'application [TerraQuest](https://kreezeg123.github.io/portfolio/terraQuest-conception-details.html) conçue en M1 en utilisant React, PHP (Symfony ou Laravel), SQL (MySQL ou PostgreSQL) et Docker
 
 ### Compétences 
 <p align="left">
