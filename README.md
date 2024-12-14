@@ -12,8 +12,8 @@ J'aime le monde de l'informatique et la culture populaire en général, et je su
 *   📄  Mes expériences : voir mon CV [ici](cv_yamis_MANFALOTI_stage_linkedin.pdf)
 *   ✉️  Vous pouvez me contacter à [manfaloti.yamis@gmail.com](mailto:manfaloti.yamis@gmail.com)
 *   🚀  Mon projet le plus récent est [Slitherlink](https://github.com/KreeZeG123/SlitherLinkGr6)
-*   🌱  Projet à venir : réaliser l'application [TerraQuest](https://kreezeg123.github.io/portfolio/terraQuest-conception-details.html) conçue en M1 en utilisant React, PHP (Symfony ou Laravel), SQL (MySQL ou PostgreSQL) et Docker
-*   🧠  J'apprends actuellement Kotlin, React, PHP, Docker, etc
+*   🌱  Projet à venir : réaliser l'application [TerraQuest](https://kreezeg123.github.io/portfolio/terraQuest-conception-details.html) conçue en M1 en utilisant React, Symfony PHP, PostgreSQL et Docker
+*   🧠  J'apprends actuellement React, PHP, Docker, Kotlin, etc
 *   🤝  Je suis ouvert à la collaboration sur tout projet qui peut m'apprendre quelque chose de nouveau !
 *   ⚡  J'aime la culture pop asiatique et les nouvelles technologies.
 
