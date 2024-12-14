@@ -1,5 +1,5 @@
 Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Je m'appelle Yamis MANFALOTI
-Et je suis étudiant en master informatique
+et je suis étudiant en master informatique
 =======================================================================================================================================
 
 J'étudie actuellement l'informatique en France.
